@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.484,\\nas\redirect\ilyuhinis\Documents\RAD Studio\Projects\Project1.cbproj=\\nas\redirect\ilyuhinis\Documents\РОСНОУ\КурсоваяИнформатика\version2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.803,=\\nas\redirect\ilyuhinis\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.761,=\\nas\redirect\IlyuhinIS\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,\\nas\redirect\ilyuhinis\Documents\RAD Studio\Projects\Unit1.h=\\nas\redirect\ilyuhinis\Documents\РОСНОУ\КурсоваяИнформатика\version2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.043,=\\nas\redirect\ilyuhinis\Documents\РОСНОУ\КурсоваяИнформатика\version2\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,\\nas\redirect\ilyuhinis\Documents\RAD Studio\Projects\Unit1.dfm=\\nas\redirect\ilyuhinis\Documents\РОСНОУ\КурсоваяИнформатика\version2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,=\\nas\redirect\ilyuhinis\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.741,=\\nas\redirect\IlyuhinIS\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,\\nas\redirect\ilyuhinis\Documents\RAD Studio\Projects\Project1PCH1.h=\\nas\redirect\ilyuhinis\Documents\РОСНОУ\КурсоваяИнформатика\version2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,\\nas\redirect\ilyuhinis\Documents\RAD Studio\Projects\Unit1.cpp=\\nas\redirect\ilyuhinis\Documents\РОСНОУ\КурсоваяИнформатика\version2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.180,=\\nas\redirect\ilyuhinis\Documents\РОСНОУ\КурсоваяИнформатика\version2\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,=\\nas\redirect\ilyuhinis\Documents\РОСНОУ\КурсоваяИнформатика\version2\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
